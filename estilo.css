@@ -1,0 +1,39 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+    
+h1{
+    font-family: 'Sofia Sans Condensed', sans-serif;
+    color: azure;
+    background-color: #04779e;
+    letter-spacing: 0.5rem;
+}
+
+.thumb{
+    width: 8rem;
+    height: 8rem;
+
+}
+
+p{
+    font-family: 'Sofia Sans Condensed', sans-serif;
+    text-align: center;
+    letter-spacing: 0.4rem;
+}
+
+a:link{
+    color: #04779e;
+    text-decoration:none;
+}
+
+a:visited{
+    color: #04779e;
+    text-decoration: none;
+}
+
+a:active{
+    color: #04779e;
+    text-decoration: none;
+}
